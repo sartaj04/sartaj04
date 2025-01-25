@@ -5,16 +5,22 @@
 I am a **Software Developer** with 4+ years of experience in **Full Stack Development, Machine Learning, and Cloud Technologies**. Passionate about building scalable applications and AI-driven solutions, I specialize in **Python, Java, JavaScript, SQL, AWS**, and modern frameworks like **Django, React, and Spring Boot**.
 
 ### 💼 Experience
-- **Doriot AI** *(AI Software Developer)* | ML Recommender Systems, Django, Graph Neural Networks
-- **SwipeIt** *(Software Developer)* | Microservices, AWS, GCP, Location-Based Services
-- **Infosys & Xactly** *(Software Engineer, Technical Consultant)* | ETL, Data Processing, Full Stack Development
+- **Goldman Sachs** *(Full Stack Developer (AI & ML))* | Flask, React, MongoDB, Data Pipelines
+- **Doriot AI** *(Founding Engineer, AI & Software)* | ML Recommender Systems, Django, Graph Neural Networks  
+- **SwipeIt** *(Software Developer)* | Microservices, AWS, GCP, Location-Based Services  
+- **Xactly** *(Technical Consultant, ETL Developer)* | Python, SQL, ETL, Data Processing  
+- **Infosys** *(Software Engineer)* | Full Stack Development, Automation, Agile  
+
 
 ## 🚀 Projects & Research
 
-### Doriot AI
-- Developed a **web application** enhancing investor-startup connections using **Django** for backend functionality.
-- Implemented **KNN & GAT-based recommender systems** for data-driven investor matchmaking.
-- Deployed architecture on **AWS**, ensuring scalability and maintainability.
+🎯 **Doriot AI - AI-Powered Investor-Startup Matchmaking**  
+- Developed a **machine learning-driven** matchmaking engine to connect startups with venture capital firms.  
+- Designed **two models**:  
+  - **GraphSAGE with KNN graphs** for investor recommendations.  
+  - **GAT with augmented edge prediction** for startup-investor linkages.  
+- Optimized **hyperparameters** using **Optuna** and evaluated models using **MAP and Hit Rate**.  
+
 
 ### 🎵 Lyric Genius - Web-Based Lyrics Search Engine
 - Led a team to develop a **lyrics search engine** utilizing **TF-IDF, BM25**, and hybrid ranking techniques.
@@ -47,7 +53,7 @@ I am a **Software Developer** with 4+ years of experience in **Full Stack Develo
 - [GitHub Repository](https://github.com/sartaj04/worldwide_trends_in_spotify)
 
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 - **Languages:** Python, Java, JavaScript, SQL, TypeScript, C#
 - **Frameworks:** Django, React, Flask, Spring Boot, FastAPI, ASP.NET
 - **DevOps & Cloud:** AWS, Docker, Kubernetes, CI/CD, PostgreSQL, MongoDB
