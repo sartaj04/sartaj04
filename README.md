@@ -4,7 +4,7 @@
 
 I am a **Software Developer** with 4+ years of experience in **Full Stack Development, Machine Learning, and Cloud Technologies**. Passionate about building scalable applications and AI-driven solutions, I specialize in **Python, Java, JavaScript, SQL, AWS**, and modern frameworks like **Django, React, and Spring Boot**.
 
-### 💼 Experience
+## 💼 Experience
 - **Goldman Sachs** *(Full Stack Developer (AI & ML))* | Flask, React, MongoDB, Data Pipelines
 - **Doriot AI** *(Founding Engineer, AI & Software)* | ML Recommender Systems, Django, Graph Neural Networks  
 - **SwipeIt** *(Software Developer)* | Microservices, AWS, GCP, Location-Based Services  
