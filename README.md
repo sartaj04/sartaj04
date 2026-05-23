@@ -12,6 +12,6 @@ These days, I mostly work on:
 - Agents and automation for real workflows
 - End-to-end systems, not isolated models
 
-If you’re building something with AI and want a thoughtful builder to help you ship it, feel free to reach out.
+Open to collaborating with serious builders working on useful AI products. Feel free to reach out.
 
 🌐 https://sartajsyed.com
