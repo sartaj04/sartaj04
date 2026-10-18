@@ -15,3 +15,5 @@ These days, I mostly work on:
 Open to collaborating with serious builders working on useful AI products. Feel free to reach out.
 
 🌐 https://sartajsyed.com
+
+📬 Subscribe to my newsletter, [Systems & Possibilities](https://systemsandpossibilities.substack.com), for a weekly read on tech, startups and the ideas behind them.
